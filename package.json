@@ -1,0 +1,26 @@
+{
+  "name": "repair-obj",
+  "version": "1.0.0",
+  "description": "Fixes holes and other broken stuff in an OBJ file",
+  "main": "repair-obj.js",
+  "bin": {
+      "repair-obj": "repair-obj.js"
+  },
+  "dependencies": {
+    "mesh-fixer": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikolalysenko/mesh-fixer-cli.git"
+  },
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/mesh-fixer-cli/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/mesh-fixer-cli#readme"
+}
